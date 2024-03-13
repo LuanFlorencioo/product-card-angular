@@ -4,7 +4,7 @@
 
 Um projeto de aprendizado em Angular 17. Experimentando e explorando a criação de componentes utilizando as funcionalidades que a nova versão do Angular fornece. O layout e design deste projeto foi inspiração da plataforma [Frontend Mentor](https://www.frontendmentor.io/home), que disponibiliza diversos desafios para praticar as habilidades front-end.
 
-[Clique aqui](https://lf-product-card.vercel.app/) acessar e conferir este projeto, ou acesse: https://lf-product-card.vercel.app/
+[Clique aqui](https://lf-product-card-angular.vercel.app/) acessar e conferir este projeto, ou acesse: https://lf-product-card-angular.vercel.app/
 
 ## Tecnologias
 
